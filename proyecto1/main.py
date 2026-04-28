@@ -2,7 +2,7 @@
 Este programa imprime un saludo en pantalla.
 Sirve como ejemplo inicial de Python.
 """
-
+import 
 import numpy as np
 import matplotlib.pyplot as plt
 
