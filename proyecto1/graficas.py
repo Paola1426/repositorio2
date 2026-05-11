@@ -16,4 +16,5 @@ plt.ylabel("Eje Y", fontsize=12)
 plt.title("Figura 1: Funciones lineal y cuadratica")
 plt.legend()
 plt.grid(True)
-plt.show()
+plt.show() 
+pl
