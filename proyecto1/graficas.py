@@ -17,4 +17,3 @@ plt.title("Figura 1: Funciones lineal y cuadratica")
 plt.legend()
 plt.grid(True)
 plt.show() 
-pl
